@@ -1,1 +1,1 @@
-# -effective_ruby2
+Effective Ruby を読む（2回目）。
