@@ -1,0 +1,1 @@
+# -effective_ruby2
